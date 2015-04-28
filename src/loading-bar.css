@@ -63,7 +63,7 @@
   position: fixed;
   z-index: 10002;
   top: 10px;
-  right: 10px;
+  right: 5px;
 }
 
 #loading-bar-spinner .spinner-icon {
